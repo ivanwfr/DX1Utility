@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<DX1Profile>
+ <keyMap> <keyNum> 1</keyNum> <keyCode> 59</keyCode> <keyType> 1</keyType> <keyName>        F2</keyName> <keyDesc>        F2</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum> 2</keyNum> <keyCode> 30</keyCode> <keyType> 1</keyType> <keyName>        D1</keyName> <keyDesc>        D1</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum> 3</keyNum> <keyCode> 31</keyCode> <keyType> 1</keyType> <keyName>        D2</keyName> <keyDesc>        D2</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum> 4</keyNum> <keyCode> 32</keyCode> <keyType> 1</keyType> <keyName>        D3</keyName> <keyDesc>        D3</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum> 5</keyNum> <keyCode> 33</keyCode> <keyType> 1</keyType> <keyName>        D4</keyName> <keyDesc>        D4</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum> 6</keyNum> <keyCode> 34</keyCode> <keyType> 1</keyType> <keyName>        D5</keyName> <keyDesc>        D5</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum> 7</keyNum> <keyCode> 60</keyCode> <keyType> 1</keyType> <keyName>        F3</keyName> <keyDesc>        F3</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum> 8</keyNum> <keyCode> 58</keyCode> <keyType> 1</keyType> <keyName>        F1</keyName> <keyDesc>        F1</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum> 9</keyNum> <keyCode> 35</keyCode> <keyType> 1</keyType> <keyName>        D6</keyName> <keyDesc>        D6</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>10</keyNum> <keyCode> 36</keyCode> <keyType> 1</keyType> <keyName>        D7</keyName> <keyDesc>        D7</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>11</keyNum> <keyCode> 37</keyCode> <keyType> 1</keyType> <keyName>        D8</keyName> <keyDesc>        D8</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>12</keyNum> <keyCode> 38</keyCode> <keyType> 1</keyType> <keyName>        D9</keyName> <keyDesc>        D9</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>13</keyNum> <keyCode> 39</keyCode> <keyType> 1</keyType> <keyName>        D0</keyName> <keyDesc>        D0</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>14</keyNum> <keyCode> 61</keyCode> <keyType> 1</keyType> <keyName>        F4</keyName> <keyDesc>        F4</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>15</keyNum> <keyCode> 62</keyCode> <keyType> 1</keyType> <keyName>        F5</keyName> <keyDesc>        F5</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>16</keyNum> <keyCode> 63</keyCode> <keyType> 1</keyType> <keyName>        F6</keyName> <keyDesc>        F6</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>17</keyNum> <keyCode> 64</keyCode> <keyType> 1</keyType> <keyName>        F7</keyName> <keyDesc>        F7</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>18</keyNum> <keyCode> 65</keyCode> <keyType> 1</keyType> <keyName>        F8</keyName> <keyDesc>        F8</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>19</keyNum> <keyCode> 66</keyCode> <keyType> 1</keyType> <keyName>        F9</keyName> <keyDesc>        F9</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>20</keyNum> <keyCode> 76</keyCode> <keyType> 1</keyType> <keyName>    Delete</keyName> <keyDesc>    Delete</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>21</keyNum> <keyCode> 41</keyCode> <keyType> 1</keyType> <keyName>    Escape</keyName> <keyDesc>    Escape</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>22</keyNum> <keyCode> 42</keyCode> <keyType> 1</keyType> <keyName>      Back</keyName> <keyDesc>      Back</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>23</keyNum> <keyCode>  2</keyCode> <keyType> 2</keyType> <keyName>  ShiftKey</keyName> <keyDesc>  ShiftKey</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>24</keyNum> <keyCode>  1</keyCode> <keyType> 2</keyType> <keyName>ControlKey</keyName> <keyDesc>ControlKey</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>25</keyNum> <keyCode>  4</keyCode> <keyType> 2</keyType> <keyName>      Menu</keyName> <keyDesc>      Menu</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>26</keyNum> <keyCode>  4</keyCode> <keyType> 1</keyType> <keyName>         A</keyName> <keyDesc>         A</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>27</keyNum> <keyCode>  5</keyCode> <keyType> 1</keyType> <keyName>         B</keyName> <keyDesc>         B</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>28</keyNum> <keyCode>  6</keyCode> <keyType> 1</keyType> <keyName>         C</keyName> <keyDesc>         C</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>29</keyNum> <keyCode>  7</keyCode> <keyType> 1</keyType> <keyName>         D</keyName> <keyDesc>         D</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>30</keyNum> <keyCode>  8</keyCode> <keyType> 1</keyType> <keyName>         E</keyName> <keyDesc>         E</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>31</keyNum> <keyCode>  9</keyCode> <keyType> 1</keyType> <keyName>         F</keyName> <keyDesc>         F</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>32</keyNum> <keyCode> 10</keyCode> <keyType> 1</keyType> <keyName>         G</keyName> <keyDesc>         G</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>33</keyNum> <keyCode> 11</keyCode> <keyType> 1</keyType> <keyName>         H</keyName> <keyDesc>         H</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>34</keyNum> <keyCode> 12</keyCode> <keyType> 1</keyType> <keyName>         I</keyName> <keyDesc>         I</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>35</keyNum> <keyCode> 13</keyCode> <keyType> 1</keyType> <keyName>         J</keyName> <keyDesc>         J</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>36</keyNum> <keyCode> 14</keyCode> <keyType> 1</keyType> <keyName>         K</keyName> <keyDesc>         K</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>37</keyNum> <keyCode> 15</keyCode> <keyType> 1</keyType> <keyName>         L</keyName> <keyDesc>         L</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>38</keyNum> <keyCode> 16</keyCode> <keyType> 1</keyType> <keyName>         M</keyName> <keyDesc>         M</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>39</keyNum> <keyCode> 17</keyCode> <keyType> 1</keyType> <keyName>         N</keyName> <keyDesc>         N</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>40</keyNum> <keyCode> 18</keyCode> <keyType> 1</keyType> <keyName>         O</keyName> <keyDesc>         O</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>41</keyNum> <keyCode> 19</keyCode> <keyType> 1</keyType> <keyName>         P</keyName> <keyDesc>         P</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>42</keyNum> <keyCode> 20</keyCode> <keyType> 1</keyType> <keyName>         Q</keyName> <keyDesc>         Q</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>43</keyNum> <keyCode> 21</keyCode> <keyType> 1</keyType> <keyName>         R</keyName> <keyDesc>         R</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>44</keyNum> <keyCode> 22</keyCode> <keyType> 1</keyType> <keyName>         S</keyName> <keyDesc>         S</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>45</keyNum> <keyCode> 23</keyCode> <keyType> 1</keyType> <keyName>         T</keyName> <keyDesc>         T</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>46</keyNum> <keyCode> 24</keyCode> <keyType> 1</keyType> <keyName>         U</keyName> <keyDesc>         U</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>47</keyNum> <keyCode> 25</keyCode> <keyType> 1</keyType> <keyName>         V</keyName> <keyDesc>         V</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>48</keyNum> <keyCode> 55</keyCode> <keyType> 1</keyType> <keyName> OemPeriod</keyName> <keyDesc> OemPeriod</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>49</keyNum> <keyCode> 46</keyCode> <keyType> 1</keyType> <keyName>   Oemplus</keyName> <keyDesc>   Oemplus</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+ <keyMap> <keyNum>50</keyNum> <keyCode> 45</keyCode> <keyType> 1</keyType> <keyName>  OemMinus</keyName> <keyDesc>  OemMinus</keyDesc> <macName>          </macName> <keyData>  </keyData> </keyMap>
+</DX1Profile>
