@@ -7,5 +7,4 @@ Compiled Executables included under the main folder
 
 > __anyone interested in some way is welcome to send me a message at ivanw@orange.fr__
 
-## CHANGE LOG: README_TAG (200730:19h:53):
-...
+## CHANGE LOG: README_TAG (200730:19h:54):
