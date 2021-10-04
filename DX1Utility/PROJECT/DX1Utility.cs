@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 using System.Diagnostics;
 using System.Linq;
 #endregion //}}}
-namespace DX1Utility {// DX1Utility_TAG = (200729:17h:39) */
+namespace DX1Utility {// DX1Utility_TAG = (211003:14h:44) */
     public partial class DX1Utility : Form, LoggerInterface {
 #region MEMBERS {{{
 #region WizardForm variables {{{
@@ -26,7 +26,7 @@ namespace DX1Utility {// DX1Utility_TAG = (200729:17h:39) */
 
 #region static private variables {{{
 
-    static public bool          Debug               =  true;//false;//FIXME
+    static public bool          Debug               =  false;
 
     // UI
     public bool                 DX1UtilityHasFocus  =  false;
@@ -53,6 +53,7 @@ namespace DX1Utility {// DX1Utility_TAG = (200729:17h:39) */
     private Profile                   profile                  = null;
 
     public  bool                      ShutDown_Requested       = false;
+    public  bool                      KeyMap_SEND_REQUESTED    =  true;
 
     private System.Windows.Forms.NotifyIcon notifyIcon;
 
@@ -93,12 +94,12 @@ namespace DX1Utility {// DX1Utility_TAG = (200729:17h:39) */
             for(int i=0; i < args.Length; ++i)
             {
                 /* USAGE {{{*/
-                if(    (args[i].StartsWith("-"))
-                    || (args[i].StartsWith("/"))
+                if(    (args[i].StartsWith("-")) // -h --help
+                    || (args[i].StartsWith("/")) // /?
                   ) {
                     System.Console.WriteLine(
                         "USAGE:\n"
-                        +"DX1Utility [-d apply_delayMS]\n"
+                        +"DX1Utility [cmdLine_apply_delay_sec]\n"
                         );
                     Environment.Exit(1);
                 }
@@ -108,6 +109,7 @@ namespace DX1Utility {// DX1Utility_TAG = (200729:17h:39) */
                 {
                     cmdLine_apply_delay_sec = int.Parse( args[i] );
 
+                    KeyMap_SEND_REQUESTED   = true;
                 }
                 /*}}}*/
             }
@@ -182,6 +184,11 @@ if( DX1Utility.Debug ) Log("specialKeyPlayer.InitPlayer:");
             D_Profiles.Items.Add(Globals.OPEN_EXECUTABLE_FOLDER);
 
             profile.SelectProfile( Globals.MENU_GLOBAL_PROFILE );
+
+            //}}}
+            /* [IWE] [211003) - Default to send key mappings to device {{{*/
+            if( KeyMap_SEND_REQUESTED )
+                profile.keyProgrammer.notify_keyMap_SEND_REQUESTED();
 
             //}}}
             // KeyMap List  and G_DX1_KEYS {{{
